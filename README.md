@@ -1,3 +1,10 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+
+
 # A Modified Sequential Probability Ratio Test (MSPRT)
 
 [Pramanik, Johnson and Bhattacharya (2020+)](https://arxiv.org/abs/1811.08478)
