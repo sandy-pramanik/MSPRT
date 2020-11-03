@@ -1,10 +1,3 @@
----
-output:
-  md_document:
-    variant: gfm
----
-
-
 # A Modified Sequential Probability Ratio Test (MSPRT)
 
 Article: [Pramanik, Johnson and Bhattacharya (2020+)](https://arxiv.org/abs/1811.08478)
