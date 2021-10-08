@@ -1,7 +1,7 @@
 
 # A Modified Sequential Probability Ratio Test (MSPRT)
 
-Article: [Pramanik, Johnson and Bhattacharya (2020+)](https://arxiv.org/abs/1811.08478)
+Article: [Pramanik, Johnson and Bhattacharya (2020+)](https://www.sciencedirect.com/science/article/pii/S0022249621000109)
 
 
 ## Description
